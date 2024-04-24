@@ -29,7 +29,7 @@ function numberFormat(number) {
 
 <template>
     <main>
-        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-bs-pause="false">
             <div class="carousel-inner">
                 <div class="carousel-item h-100 active">
                     <img src="@/assets/slide-1.jpg" class="d-block object-fit-cover w-100 h-100" alt="..." />
